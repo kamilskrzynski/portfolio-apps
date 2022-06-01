@@ -14,8 +14,8 @@
 ![CryptoTracker](https://user-images.githubusercontent.com/56888971/171407809-03443329-6e51-4038-946a-4f079eaba196.png)
 
 Technologies:
-  * **SwiftUI
-  * **Combine
+  * **SwiftUI**
+  * **Combine**
 
 <br />
 <br />
@@ -27,10 +27,10 @@ Technologies:
 ![Habit Tracker](https://user-images.githubusercontent.com/56888971/171418414-01f81e7d-9e81-4b2b-b6a6-e9b16e5e5baa.png)
 
 Technologies:
-  * **SwiftUI
-  * **UserDefaults
-  * **JSONDecoder
-  * **JSONEncoder
+  * **SwiftUI**
+  * **UserDefaults**
+  * **JSONDecoder**
+  * **JSONEncoder**
 
 <br>
 <br>
@@ -42,4 +42,4 @@ Technologies:
 ![Calculator](https://user-images.githubusercontent.com/56888971/171413429-01d87bca-d759-4d28-9bb3-d6bc279627ba.png)
 
 Techonologies:
-  * **SwiftUI
+  * **SwiftUI**
