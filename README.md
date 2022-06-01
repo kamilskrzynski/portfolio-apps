@@ -3,9 +3,9 @@
 
 ## Apps
 
- * [Crypto Tracker](#crypto-tracker)<br>
- * [Habit Tracker](#habit-tracker)<br>
- * [Calculator App](#calculator-app)<br>
+ * **[Crypto Tracker](#crypto-tracker)**<br>
+ * **[Habit Tracker](#habit-tracker)**<br>
+ * **[Calculator App](#calculator-app)**<br>
 
 ### [Crypto Tracker](https://github.com/kamilskrzynski/CryptoTracker)
 
