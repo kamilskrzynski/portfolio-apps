@@ -18,7 +18,7 @@ Technologies:
   * **Combine**
 
 Architecture:
- * **MVMM**
+ * **MVVM**
 
 <br />
 <br />
@@ -36,7 +36,7 @@ Technologies:
   * **JSONEncoder**
 
 Architecture:
- * **MVMM**
+ * **MVVM**
 
 <br>
 <br>
