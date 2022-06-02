@@ -17,6 +17,9 @@ Technologies:
   * **SwiftUI**
   * **Combine**
 
+Architecture:
+ * **MVMM**
+
 <br />
 <br />
 
@@ -31,6 +34,9 @@ Technologies:
   * **UserDefaults**
   * **JSONDecoder**
   * **JSONEncoder**
+
+Architecture:
+ * **MVMM**
 
 <br>
 <br>
