@@ -2,7 +2,7 @@
 **Portfolio repository to store all of my showcase apps**
 
 
-## [Crypto Tracker](https://github.com/kamilskrzynski/CryptoTracker)
+## [Crypto Tracker](https://github.com/kamilskrzynski/crypto-tracker)
 
 **Tracking cryptocurrencies' prices via CoinGecko public API**
 
@@ -18,11 +18,11 @@ Architecture:
 <br />
 <br />
 
-## [Habit Tracker](/images/habit-tracker.png)
+## [Habit Tracker](https://github.com/kamilskrzynski/habit-tracker)
 
 **Simple Habit Tracker APP with clean UI**
 
-![Habit Tracker](https://user-images.githubusercontent.com/56888971/171418414-01f81e7d-9e81-4b2b-b6a6-e9b16e5e5baa.png)
+![Habit Tracker](/images/habit-tracker.png)
 
 Technologies:
   * **SwiftUI**
@@ -36,11 +36,11 @@ Architecture:
 <br>
 <br>
 
-## [Calculator APP](/images/calculator.png)
+## [Calculator APP](https://github.com/kamilskrzynski/calculator)
 
 **Clone of Apple's built-in Calculator App on iPhones**
 
-![Calculator](https://user-images.githubusercontent.com/56888971/171413429-01d87bca-d759-4d28-9bb3-d6bc279627ba.png)
+![Calculator](/images/calculator.png)
 
 Techonologies:
   * **SwiftUI**
