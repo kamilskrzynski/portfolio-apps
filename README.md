@@ -1,6 +1,26 @@
 # Portfolio
 **Portfolio repository to store all of my showcase apps**
 
+## [Expenses Tracker](https://github.com/kamilskrzynski/expenses-tracker)
+
+**Tracking expenses and incomes throughout different accounts**
+
+![ExpensesTracker](/images/expenses-tracker.png)
+
+Technologies:
+  * **SwiftUI**
+  * **CoreData**
+  * **UserDefaults**
+  * **Combine**
+
+Architecture:
+ * **MVVM**
+
+Design and fuctionality:
+* **Andrew Tanchuk, Five Cents APP**
+
+<br />
+<br />
 
 ## [Crypto Tracker](https://github.com/kamilskrzynski/crypto-tracker)
 
